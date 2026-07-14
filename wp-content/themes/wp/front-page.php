@@ -23,9 +23,15 @@
         <div class="p-top1__container">
           <div class="p-top1__box c-fadeUp">
             <div class="p-top1__box__img">
-              <img src="/wp-content/themes/wp/assets/images/top/2ot.png" alt="2OT" />
+              <img src="/wp-content/themes/wp/assets/images/top/nexrise.png" alt="NexRise" />
             </div>
-            <h3 class="p-top1__box__ttl">2OT</h3>
+            <h3 class="p-top1__box__ttl">NexRise</h3>
+          </div>
+          <div class="p-top1__box c-fadeUp">
+            <div class="p-top1__box__img">
+              <img src="/wp-content/themes/wp/assets/images/top/2035.png" alt="Neo Sense 2035" />
+            </div>
+            <h3 class="p-top1__box__ttl">Neo Sense 2035</h3>
           </div>
           <div class="p-top1__box c-fadeUp">
             <div class="p-top1__box__img">
@@ -47,15 +53,9 @@
           </div>
           <div class="p-top1__box c-fadeUp">
             <div class="p-top1__box__img">
-              <img src="/wp-content/themes/wp/assets/images/top/nexrise.png" alt="NexRise" />
+              <img src="/wp-content/themes/wp/assets/images/top/2ot.png" alt="2OT" />
             </div>
-            <h3 class="p-top1__box__ttl">NexRise</h3>
-          </div>
-          <div class="p-top1__box c-fadeUp">
-            <div class="p-top1__box__img">
-              <img src="/wp-content/themes/wp/assets/images/top/2035.png" alt="Neo Sense 2035" />
-            </div>
-            <h3 class="p-top1__box__ttl">Neo Sense 2035</h3>
+            <h3 class="p-top1__box__ttl">2OT</h3>
           </div>
         </div>
         <div class="p-top1__modal">
@@ -64,29 +64,81 @@
             <div class="p-top1__modal__content">
               <p class="p-top1__modal__close">×</p>
               <div class="p-top1__modal__img">
-                <img src="/wp-content/themes/wp/assets/images/top/mockup_2ot.jpg" alt="2OT_mockup" />
+                <img src="/wp-content/themes/wp/assets/images/top/mockup_nexrise.png" alt="NexRise_mockup" />
               </div>
               <table>
                 <tr>
                   <th class="p-top1__modal__ttl">サイトタイトル：</th>
                   <td class="p-top1__modal__txt">
-                    <a href="<?php echo 'http://'.$_SERVER['HTTP_HOST'].'/2ot' ?>" target="_blank" class="p-top1__modal__link"
-                      >2OT - Double Over Time-</a
+                    <a href="https://nexrise.carexfield.site/" class="p-top1__modal__link" target="_blank">NexRise</a
+                    >
+                  </td>
+                </tr>
+                <tr>
+                  <th class="p-top1__modal__ttl">GitHub：</th>
+                  <td class="p-top1__modal__txt">
+                    <a href="https://github.com/Carex-Field/NexRise" class="p-top1__modal__link" target="_blank">https://github.com/Carex-Field/NexRise</a
                     >
                   </td>
                 </tr>
                 <tr>
                   <th class="p-top1__modal__ttl">制作期間：</th>
-                  <td class="p-top1__modal__txt">６～７人日</td>
+                  <td class="p-top1__modal__txt">５人日</td>
                 </tr>
                 <tr>
                   <th class="p-top1__modal__ttl">担当：</th>
-                  <td class="p-top1__modal__txt">企画／デザイン／コーディング</td>
+                  <td class="p-top1__modal__txt">設計／デザイン／コーディング</td>
                 </tr>
                 <tr>
                   <th class="p-top1__modal__ttl">コメント：</th>
                   <td class="p-top1__modal__txt">
-                    NBA観戦をモチーフにしたスポーツカフェの架空サイトです。<br />ゆったりとした時間を過ごしてもらうことを意識して、余白を大きめに取るようにデザインしました。<br />また、配色についても淡い暖色系を使用しています。
+                    DX支援コンサルティング会社の架空コーポレートサイトです。<br>
+                    サービスや事例はWordPressのカスタム投稿で作成し、<br>
+                    シングルページはカスタムフィールドに文章を入力するのみで作成可能となっており、<br>
+                    普段コーディングをしない方でも簡単に管理できるように設計して制作しました。
+                  </td>
+                </tr>
+              </table>
+              <div class="p-top1__modal__btn"><p>閉じる</p></div>
+            </div>
+          </div>
+          <div class="p-top1__modal__container">
+            <div class="p-top1__modal__bg"></div>
+            <div class="p-top1__modal__content">
+              <p class="p-top1__modal__close">×</p>
+              <div class="p-top1__modal__img">
+                <img src="/wp-content/themes/wp/assets/images/top/mockup_2035.png" alt="Neo Sense 2035_mockup" />
+              </div>
+              <table>
+                <tr>
+                  <th class="p-top1__modal__ttl">サイトタイトル：</th>
+                  <td class="p-top1__modal__txt">
+                    <a href="https://neo-sense-2035.vercel.app/" class="p-top1__modal__link" target="_blank">Neo Sense 2035</a
+                    >
+                  </td>
+                </tr>
+                <tr>
+                  <th class="p-top1__modal__ttl">GitHub：</th>
+                  <td class="p-top1__modal__txt">
+                    <a href="https://github.com/Carex-Field/NEO-SENSE-2035" class="p-top1__modal__link" target="_blank">https://github.com/Carex-Field/NEO-SENSE-2035</a
+                    >
+                  </td>
+                </tr>
+                <tr>
+                  <th class="p-top1__modal__ttl">制作期間：</th>
+                  <td class="p-top1__modal__txt">３人日</td>
+                </tr>
+                <tr>
+                  <th class="p-top1__modal__ttl">担当：</th>
+                  <td class="p-top1__modal__txt">設計／デザイン／コーディング</td>
+                </tr>
+                <tr>
+                  <th class="p-top1__modal__ttl">コメント：</th>
+                  <td class="p-top1__modal__txt">
+                    近未来のテクノロジーとアートの融合をテーマにした架空のイベントLPです。<br>
+                    React×TypescriptでのLenis, GSAP, Swiperのスクロールアニメーションの導入を目的に制作しました。<br>
+                    LenisとGSAPを用いたスムーズなスクロール体験と、SwiperによるインタラクティブなUIを組み合わせ、「見る」だけでなく「体験する」サイトを目指しました。<br>
+                    特に、スクロールと連動したアニメーション設計や、セクションごとの役割分担（導入・没入・体験・行動）を意識しています。
                   </td>
                 </tr>
               </table>
@@ -217,81 +269,29 @@
             <div class="p-top1__modal__content">
               <p class="p-top1__modal__close">×</p>
               <div class="p-top1__modal__img">
-                <img src="/wp-content/themes/wp/assets/images/top/mockup_nexrise.png" alt="NexRise_mockup" />
+                <img src="/wp-content/themes/wp/assets/images/top/mockup_2ot.jpg" alt="2OT_mockup" />
               </div>
               <table>
                 <tr>
                   <th class="p-top1__modal__ttl">サイトタイトル：</th>
                   <td class="p-top1__modal__txt">
-                    <a href="https://nexrise.carexfield.shop/" class="p-top1__modal__link" target="_blank">NexRise</a
-                    >
-                  </td>
-                </tr>
-                <tr>
-                  <th class="p-top1__modal__ttl">GitHub：</th>
-                  <td class="p-top1__modal__txt">
-                    <a href="https://github.com/Carex-Field/NexRise" class="p-top1__modal__link" target="_blank">https://github.com/Carex-Field/NexRise</a
+                    <a href="<?php echo 'http://'.$_SERVER['HTTP_HOST'].'/2ot' ?>" target="_blank" class="p-top1__modal__link"
+                      >2OT - Double Over Time-</a
                     >
                   </td>
                 </tr>
                 <tr>
                   <th class="p-top1__modal__ttl">制作期間：</th>
-                  <td class="p-top1__modal__txt">５人日</td>
+                  <td class="p-top1__modal__txt">６～７人日</td>
                 </tr>
                 <tr>
                   <th class="p-top1__modal__ttl">担当：</th>
-                  <td class="p-top1__modal__txt">設計／デザイン／コーディング</td>
+                  <td class="p-top1__modal__txt">企画／デザイン／コーディング</td>
                 </tr>
                 <tr>
                   <th class="p-top1__modal__ttl">コメント：</th>
                   <td class="p-top1__modal__txt">
-                    DX支援コンサルティング会社の架空コーポレートサイトです。<br>
-                    サービスや事例はWordPressのカスタム投稿で作成し、<br>
-                    シングルページはカスタムフィールドに文章を入力するのみで作成可能となっており、<br>
-                    普段コーディングをしない方でも簡単に管理できるように設計して制作しました。
-                  </td>
-                </tr>
-              </table>
-              <div class="p-top1__modal__btn"><p>閉じる</p></div>
-            </div>
-          </div>
-          <div class="p-top1__modal__container">
-            <div class="p-top1__modal__bg"></div>
-            <div class="p-top1__modal__content">
-              <p class="p-top1__modal__close">×</p>
-              <div class="p-top1__modal__img">
-                <img src="/wp-content/themes/wp/assets/images/top/mockup_2035.png" alt="Neo Sense 2035_mockup" />
-              </div>
-              <table>
-                <tr>
-                  <th class="p-top1__modal__ttl">サイトタイトル：</th>
-                  <td class="p-top1__modal__txt">
-                    <a href="https://neo-sense-2035.vercel.app/" class="p-top1__modal__link" target="_blank">Neo Sense 2035</a
-                    >
-                  </td>
-                </tr>
-                <tr>
-                  <th class="p-top1__modal__ttl">GitHub：</th>
-                  <td class="p-top1__modal__txt">
-                    <a href="https://github.com/Carex-Field/NEO-SENSE-2035" class="p-top1__modal__link" target="_blank">https://github.com/Carex-Field/NEO-SENSE-2035</a
-                    >
-                  </td>
-                </tr>
-                <tr>
-                  <th class="p-top1__modal__ttl">制作期間：</th>
-                  <td class="p-top1__modal__txt">３人日</td>
-                </tr>
-                <tr>
-                  <th class="p-top1__modal__ttl">担当：</th>
-                  <td class="p-top1__modal__txt">設計／デザイン／コーディング</td>
-                </tr>
-                <tr>
-                  <th class="p-top1__modal__ttl">コメント：</th>
-                  <td class="p-top1__modal__txt">
-                    近未来のテクノロジーとアートの融合をテーマにした架空のイベントLPです。<br>
-                    React×TypescriptでのLenis, GSAP, Swiperのスクロールアニメーションの導入を目的に制作しました。<br>
-                    LenisとGSAPを用いたスムーズなスクロール体験と、SwiperによるインタラクティブなUIを組み合わせ、「見る」だけでなく「体験する」サイトを目指しました。<br>
-                    特に、スクロールと連動したアニメーション設計や、セクションごとの役割分担（導入・没入・体験・行動）を意識しています。
+                    NBA観戦をモチーフにしたスポーツカフェの架空サイトです。<br />ゆったりとした時間を過ごしてもらうことを意識して、余白を大きめに取るようにデザインしました。<br />また、配色についても淡い暖色系を使用しています。
                   </td>
                 </tr>
               </table>
